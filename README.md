@@ -1,7 +1,9 @@
 # Classificador de Imagens de Cães e Gatos com TensorFlow e Keras
 Este projeto consiste em um classificador de imagens para diferenciar entre cães e gatos usando a poderosa combinação de TensorFlow e Keras. Abaixo estão detalhes sobre cada parte do código.
 
+<div align=center>
 <img src="https://s35949.pcdn.co/wp-content/uploads/2016/10/c%C3%A3es-e-gatos-1.jpg"/>
+</div>
 
 ## Pré-requisitos
 Antes de executar o código, certifique-se de ter as seguintes bibliotecas instaladas:
