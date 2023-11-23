@@ -37,6 +37,8 @@ Os registros do TensorBoard são salvos no diretório 'logs'. Monitore o progres
 tensorboard --logdir=logs
 ```
 
+<img src="board_dg_ct.png"/> <img src="metrics_dg_ct.png"/>
+
 ## Avaliação do Modelo
 Após o treinamento, o modelo é avaliado no conjunto de teste usando métricas como acurácia binária, precisão e recall.
 
